@@ -67,19 +67,19 @@ mvn clean
 ```
 
 ```
-mvn test-compile gauge:execute -DspecsDir="specs/EditProfile.spec"
+mvn test-compile gauge:execute -DspecsDir="specs/AddEmployee.spec"
 ```
 
  or run in headless mode:
 
 ```
-mvn test-compile gauge:execute -DspecsDir="specs/EditProfile.spec" -Denv="headless"
+mvn test-compile gauge:execute -DspecsDir="specs/AddEmployee.spec" -Denv="headless"
 ```
 
 From IDEA (e.g. IntelliJ):
 
-- Right click on spec (e.g. EditProfile.spec)
-- Select 'Run EditProfile.spec'
+- Right click on spec (e.g. AddEmployee.spec)
+- Select 'Run AddEmployee.spec'
 
 ### 6. Reporting
 
