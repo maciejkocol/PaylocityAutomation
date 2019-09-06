@@ -1,0 +1,9 @@
+Created by Maciej Kocol on 09/06/19
+
+This is a concept file with following syntax for each concept.
+
+# Add employee with <first> and <last> name having <dependents>
+* Start add employee process
+* Fill employee details with <first> <last> <dependents>
+* Submit employee
+* Validate employee table
