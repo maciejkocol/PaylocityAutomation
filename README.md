@@ -1,6 +1,6 @@
-# Automation Engineer Homework Assignment for Paylocity Application
+# Paylocity Automation Challenge
 
-This readme outlines how to run the Paylocity automation script that edits mobile phone number and saves a profile.
+This readme outlines how to run the Paylocity automation script that adds a new employee to table and validates the result.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ These instructions will guide you on installing and executing Paylocity automati
 ```
 npm install mvn -g
 ```
-### 3. Install Gauge (BDD tool like Cucumber)
+### 3. Install Gauge
 
 Choose method (brew or npm)
 
