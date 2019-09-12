@@ -11,8 +11,13 @@ These instructions will guide you on installing and executing Paylocity automati
 - [Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [Homebrew](https://brew.sh) or [npm](https://nodejs.org/)
 
-### 1. Unzip the project to a local directory
+### 1. Clone the project
 
+Locally, at the root directory of your source:
+
+```
+git clone https://github.com/maciejkocol/PaylocityAutomation
+```
 ### 2. Install Maven dependency management
 
 ```
